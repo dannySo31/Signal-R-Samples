@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCSignalRApp", "MVCSignalRApp\MVCSignalRApp.csproj", "{A910579C-A708-4335-A495-1AAE65603145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCSignalRApp.Tests", "MVCSignalRApp.Tests\MVCSignalRApp.Tests.csproj", "{ABDC755F-C501-4487-93F5-E899639EC181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A910579C-A708-4335-A495-1AAE65603145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A910579C-A708-4335-A495-1AAE65603145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A910579C-A708-4335-A495-1AAE65603145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A910579C-A708-4335-A495-1AAE65603145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDC755F-C501-4487-93F5-E899639EC181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDC755F-C501-4487-93F5-E899639EC181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDC755F-C501-4487-93F5-E899639EC181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDC755F-C501-4487-93F5-E899639EC181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
